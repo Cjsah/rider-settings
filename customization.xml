@@ -1,0 +1,22 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="LeftToolbarSideGroup" is_group="true" forse_popup="false" action_type="-1" position="0">
+      <path value="root" />
+      <path value="工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhereNewToolbarAction" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="工具栏" />
+      <path value="右侧" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SegmentedVcsControlAction" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="工具栏" />
+      <path value="右侧" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="CopyAbsolutePath" icon="jar:file:/C:/Users/Cjsah/AppData/Local/JetBrains/Toolbox/apps/Rider/ch-0/231.8770.54/lib/app.jar!/toolbar/unknown.svg" />
+  </component>
+</application>
